@@ -3,7 +3,9 @@
 Offline reinforcement learning via sequence modeling with Transformers. This repository provides my own implementation of Decision Transformers—recasting trajectories of states, actions, and returns‑to‑go as token sequences and leveraging decoder‑only architectures (e.g., GPT‑2) to generate actions conditioned on desired returns and history. Experiments cover synthetic random walks, continuous control (HalfCheetah, Hopper), robotic manipulation (AdroitHandDoor), and Atari games (Space Invaders, Breakout). Inspired by [Chen et al. 2021](https://arxiv.org/abs/2106.01345).
 
 ---
-### $${\color{lightgreen}Checkout \space \space Subfolders \space For \space Better \space Explanations \space and \space visual \space examples! }$$ 
+[//]: # ( ### $${\color{lightgreen}Checkout \space \space Subfolders \space For \space Better \space Explanations \space and \space visual \space examples! }$$ )
+> ✅ **Checkout subfolders for better explanations and visual examples!**
+
 ---
 
 ## Overview
