@@ -13,11 +13,11 @@ Offline reinforcement learning via sequence modeling with Transformers. This rep
   <tr>
     <td style="width:50%; text-align:center; vertical-align:top; padding:10px;">
       <img src="graph/state-8-RTG-0.gif" alt="Rollout at RTG = 0" style="max-width:100%;">
-      <p><em>The agent goes directly to the goal when conditioned on RTG = 0.</em></p>
+      <p><em>Starting from state 8, The agent goes directly to the goal when conditioned on RTG = 0.</em></p>
     </td>
     <td style="width:50%; text-align:center; vertical-align:top; padding:10px;">
       <img src="graph/state-8-RTG-Minus15.gif" alt="Rollout at RTG = -15" style="max-width:100%;">
-      <p><em>With RTG = -15, the agent delays reaching the goal to collect a near -15 return.</em></p>
+      <p><em>Starting from state 8, with RTG = -15, the agent delays reaching the goal to collect a near -15 return.</em></p>
     </td>
   </tr>
 </table>
